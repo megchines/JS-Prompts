@@ -1,0 +1,20 @@
+notes
+
+
+Some challenges for you to try in JavaScript. This is all about learning scripting, so don’t worry if your pages look ugly. You might want to look up some video lectures on YouTube as an intro.
+
+	⁃	Ask a user for their name, and then print “Hello, (their name)!” on the page
+	⁃	Ask a user for a number, and then print “hello” that many times.
+	⁃	A page that always shows the current time. It should update every second :)
+	⁃	A page that changes background color every second. How will it choose a random color?
+	⁃	Build a simple calculator. Allow users to enter two number, and to choose an operation (like “add”, “multiply”, etc.). When the user hits a button, the page should show the result somewhere.
+	⁃	You can add more functionality to the calculator. Like take in a list of numbers and return the average.
+
+Some fun stuff to get start with node.
+	⁃	Install node, and just play in the prompt
+	⁃	Install create-react-app, and check out React.
+	⁃	Make a todo list with React! Users should be able to enter a new item, add it to the list. Users can click a button on tasks to mark them as done, and then they should be removed from the list.
+	⁃	Allow different types of tasks. For example, work vs home tasks. Allow the user to filter based on what tasks they have.
+
+BTW, node stuff is a really easy to way to get more comfortable with a the “command line”. The terminal.app in Mac is just like the command line on Linux servers too. Macs are honestly better for programming than Windows if you’re getting into command line stuff :)
+After this sort of stuff, you’re well on your way to being a “full stack” developer.
